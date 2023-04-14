@@ -1,10 +1,10 @@
 {
-  "name": "metallic",
+  "name": "JOSH HAS A HELMET",
   "version": "1.7",
   "description": "A powerful web proxy build for speed and customization.",
-  "repository": "https://github.com/Metallic-Web/Metallic.git",
+  "repository": "https://www.google.com/search?q=minecraft+helmet+lether%5C&rlz=1CAIGZW_enUS1035&ei=8Io4ZP_IFvazptQPp7O72A8&ved=0ahUKEwj_gKmw_Kf-AhX2mYkEHafZDvsQ4dUDCBA&uact=5&oq=minecraft+helmet+lether%5C&gs_lcp=Cgxnd3Mtd2l6LXNlcnAQAzIGCAAQFhAeMgYIABAWEB4yCAgAEBYQHhAPMggIABAWEB4QDzIICAAQCBAeEA0yCAgAEAgQHhANMggIABAIEB4QDTIICAAQigUQhgMyCAgAEIoFEIYDMggIABCKBRCGAzoKCAAQRxDWBBCwAzoKCAAQigUQsAMQQzoKCC4QigUQsAMQQzoICAAQgAQQsQM6BwgAEIoFEEM6BQgAEIAEOggIABAWEB4QCjoHCAAQDRCABEoECEEYAFDIB1jpEGCbFmgBcAF4AIABlAOIAZURkgEJMC4yLjQuMC4ymAEAoAEByAEKwAEB&sclient=gws-wiz-serp#imgrc=yTrgCZ4PZC3SEM",
   "license": "MIT",
-  "author": "Nebelung",
+  "author": "DOUG",
   "type": "module",
   "dependencies": {
     "@emotion/react": "^11.10.6",
